@@ -17,7 +17,6 @@ CSE'24 | JAVA | PYTHON | HackerRank 5 ⭐️ | DSA | ML | WEB | NCC-AIRWING CADE
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Rohitswami16&icon=0&color=0)](https://visitcount.itsvg.in)
 

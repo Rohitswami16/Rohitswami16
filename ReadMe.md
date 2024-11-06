@@ -1,5 +1,5 @@
 ### 💫 About Me:
-CSE'24 | JAVA | PYTHON | HackerRank 5 ⭐️ | DSA | ML | WEB | NCC-AIRWING CADET
+JAVA | PYTHON | HackerRank 5 ⭐️ | DSA | ML | WEB | NCC-AIRWING CADET
 
 ### 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohit-swami16) 

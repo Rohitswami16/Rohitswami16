@@ -1,3 +1,4 @@
+<div align="center">
 ### 💫 About Me:
 JAVA | PYTHON | HackerRank 5 ⭐️ | DSA | ML | WEB | NCC-AIRWING CADET
 
@@ -32,7 +33,7 @@ JAVA | PYTHON | HackerRank 5 ⭐️ | DSA | ML | WEB | NCC-AIRWING CADET
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitswami16&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitswami16&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center">
+
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Rohitswami16&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -41,8 +42,8 @@ JAVA | PYTHON | HackerRank 5 ⭐️ | DSA | ML | WEB | NCC-AIRWING CADET
 
 ### 🏆GitHub Trophies :
 <!-- Replace `username` with your GitHub username -->
-![](https://github-profile-trophy.vercel.app/?username=Rohitswami16&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
-</div>
+![](https://github-profile-trophy.vercel.app/?username=Rohitswami16&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
@@ -56,7 +57,7 @@ JAVA | PYTHON | HackerRank 5 ⭐️ | DSA | ML | WEB | NCC-AIRWING CADET
 
 
 
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

@@ -30,7 +30,9 @@
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Rohitswami16&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<hr/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitswami16&theme=synthwave&hide_border=false)<br/>
+<hr/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitswami16&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 

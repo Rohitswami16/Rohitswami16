@@ -29,8 +29,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ### 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Rohitswami16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitswami16&theme=tokyonight&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Rohitswami16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitswami16&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitswami16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 <div align="center">

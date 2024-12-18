@@ -46,21 +46,14 @@
 ### 🏆GitHub Trophies :
 
 <div>
-  <!-- First Trophy Section -->
   <img src="https://github-profile-trophy.vercel.app/?username=Rohitswami16&theme=darkhub&column=9&margin-w=11" 
-       alt="GitHub Trophies - Darkhub Theme" 
+       alt="GitHub Trophies" 
        style="width: 120%; display: inline-block;" />
-</div>
-<br>
-<div>
-  <!-- Second Trophy Section -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohitswami16&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" 
-       alt="GitHub Trophies - TokyoNight Theme" 
-       style="width: 100%; display: inline-block;" />
 </div>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
      width="1920" />
+
 
 
 

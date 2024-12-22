@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main  # Adjust if your default branch is different
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Rohitswami16
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Upload Snake
+        uses: actions/upload-artifact@v3
+        with:
+          name: contribution-snake
+          path: dist

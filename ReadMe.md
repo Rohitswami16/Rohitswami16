@@ -65,6 +65,13 @@
 
 </div>
 
+<div align="center">  
+  <h2> Here's to my Contributions 🥂 </h2>  
+  <br>  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rohitswami16/Rohitswami16/output/github-contribution-grid-snake.svg" />  
+  <br/><br/> 
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 

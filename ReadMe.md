@@ -64,15 +64,6 @@
 [![](https://visitcount.itsvg.in/api?id=Rohitswami16&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-<div align="center">  
-  <h2> Here's to my Contributions 🥂 </h2>  
-  <br>  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rohitswami16/Rohitswami16/output/github-snake.svg" />  
-  <br/><br/> 
-</div>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 

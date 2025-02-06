@@ -50,9 +50,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
      width="1920" />
 
-
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rohitswami16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 

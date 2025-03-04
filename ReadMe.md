@@ -1,10 +1,12 @@
 <div align="center">
 
 <h1>Hi I'am Rohit</h1>
+---
 
 ### 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohit-swami16) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rohitswami1612)
+---
 
 ### 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=black)
@@ -23,12 +25,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black) 
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=black) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=black)  
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=black)
+
+---
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Rohitswami16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitswami16&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitswami16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+---
 
 <div align="center">
   <img height="180em" style="border: 2px solid #ffffff; border-radius: 10px; margin: 5px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohitswami16&theme=tokyonight" />
@@ -37,6 +43,8 @@
   <img height="180em" style="border: 2px solid #ffffff; border-radius: 10px; margin: 5px;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohitswami16&theme=tokyonight" />
   <img height="180em" style="border: 2px solid #ffffff; border-radius: 10px; margin: 5px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohitswami16&theme=tokyonight" />
 </div>
+
+---
 
 ### 🏆GitHub Trophies :
 

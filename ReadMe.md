@@ -43,7 +43,6 @@
   <img height="180em" style="border: 2px solid #ffffff; border-radius: 10px; margin: 5px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohitswami16&theme=tokyonight" />
 </div>
 
----
 
 ### 🏆GitHub Trophies :
 

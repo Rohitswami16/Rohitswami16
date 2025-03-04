@@ -8,14 +8,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
-
-
-![C](https://custom-icon-badges.herokuapp.com/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black&labelColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=black&labelColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black&labelColor=black)
-![Java](https://img.shields.io/badge/java-%23F7DF1E.svg?style=for-the-badge&logo=openjdk&logoColor=black)
-![Python](https://img.shields.io/badge/python-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -27,12 +22,6 @@
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=black) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=black)  
-
-
-
-
-
-
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Rohitswami16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>

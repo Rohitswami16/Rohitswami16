@@ -33,7 +33,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitswami16&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitswami16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
----
 
 <div align="center">
   <img height="180em" style="border: 2px solid #ffffff; border-radius: 10px; margin: 5px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohitswami16&theme=tokyonight" />
@@ -43,6 +42,7 @@
   <img height="180em" style="border: 2px solid #ffffff; border-radius: 10px; margin: 5px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohitswami16&theme=tokyonight" />
 </div>
 
+---
 
 ### 🏆GitHub Trophies :
 

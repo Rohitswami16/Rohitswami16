@@ -2,7 +2,7 @@
 
 <h1>Hi I'am Rohit</h1>
 
-<a href="https://rohitswami16.github.io/MYPORTFOLIO/" target="_blank">
+<a href="https://rohitswami16.github.io/MYPORTFOLIO/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio Link">
 </a>
 

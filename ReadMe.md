@@ -18,25 +18,32 @@
 ### 💻Tech Stack
 
 <table border="1" cellpadding="10">
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3">
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5">
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black" alt="Java">
-      <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python">
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Web Technologies / Frameworks</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
-      <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=black" alt="Spring Boot">
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=black" alt="Django">
-    </td>
-  </tr>
+
+
+<tr>
+  <td><strong>Programming Languages</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black" alt="Java">
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=black" alt="Python">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </td>
+</tr>
+<tr>
+  <td><strong>Web Technologies</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </td>
+</tr>
+<tr>
+  <td><strong>Frameworks / Libraries</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=black" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=black" alt="Django">
+  </td>
+</tr> 
   <tr>
     <td><strong>Databases</strong></td>
     <td>

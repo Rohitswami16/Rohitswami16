@@ -63,6 +63,15 @@
       <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Tool Suite">
     </td>
   </tr>
+  <tr>
+  <td><strong>AI Tools</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering">
+    <img src="https://img.shields.io/badge/Cursor%20AI-000000.svg?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI">
+  </td>
+</tr>
+
 </table>
 
 ---

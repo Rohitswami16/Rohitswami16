@@ -58,6 +58,9 @@
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=black" alt="Jira">
       <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=black" alt="Trello">
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/SourceTree-%230052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white" alt="SourceTree">
+      <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Tool Suite">
     </td>
   </tr>
 </table>
